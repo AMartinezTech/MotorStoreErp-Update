@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "mandatory": false,
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0/IRM_1.0.0.zip",
+  "checksum": "SHA256_AQUI",
+  "releaseDate": "2026-05-25",
+  "notes": [
+    "Primera versión estable"
+  ]
+}
