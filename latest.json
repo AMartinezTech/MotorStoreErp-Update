@@ -1,8 +1,8 @@
 {
   "version": "1.0.0.0",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0/IRM_1.0.0.zip",
-  "checksum": "F46AB7313DC539AA19C228B50E758DD32638CF4BCBC291E92DEDCDCA0807DCF1",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.0/IRM_1.0.0.0.zip",
+  "checksum": "35AA4084E020E252413E8694A170E816426E7D7F6F2531372D17BC8DB7861457",
   "releaseDate": "2026-05-25",
   "notes": [
     "Primera versión estable"
