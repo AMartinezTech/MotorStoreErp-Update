@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.0.2",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.0/IRM_1.0.0.0.zip",
-  "checksum": "CA92B05C3BC8419DD3F0F87E71D4EF71C3C94A459984BBF0DF6D5B4F7BD13EB0",
-  "releaseDate": "2026-05-25",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.0/IRM_1.0.0.2.zip",
+  "checksum": "236354D50D1EFF82BBE1D1790E039352BB9C67DF80A81A2937930248FCACB146",
+  "releaseDate": "2026-06-05",
   "notes": [
-    "Primera versión estable"
+    "Created vehicle inventory"
   ]
 }
