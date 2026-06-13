@@ -1,11 +1,11 @@
 {
 
-  "version": "1.0.0.4",
+  "version": "1.0.0.5",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.4/IRM_1.0.0.4.zip",
-  "checksum": "4984B840B0B5B90341E496B9EBBD146BA1571A7861E291DEDB43AADB0F1ED059",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.5/IRM_1.0.0.5.zip",
+  "checksum": "1327834D23F720ED607120CB7902EDDC9DB7956AEB0AF2C6346C6FBB34B72D41",
   "releaseDate": "2026-06-13",
   "notes": [
-    "Actualización de la opción de conduce en el modulo de inventario."
+    "Actualización de la nota de inventario, para que acepte 500 carateres."
   ]
 }
