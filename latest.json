@@ -1,9 +1,9 @@
 {
 
-  "version": "1.0.0.3",
+  "version": "1.0.0.4",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.3/IRM_1.0.0.3.zip",
-  "checksum": "464E70298AB6A21BDDD3FC69CEBF8283EFE4130CAA0DDC6FD8BDFA098E26277E",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.4/IRM_1.0.0.4.zip",
+  "checksum": "4984B840B0B5B90341E496B9EBBD146BA1571A7861E291DEDB43AADB0F1ED059",
   "releaseDate": "2026-06-13",
   "notes": [
     "Actualización de la opción de conduce en el modulo de inventario."
