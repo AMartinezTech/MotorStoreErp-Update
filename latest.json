@@ -1,11 +1,11 @@
 {
 
-  "version": "1.0.0.6",
+  "version": "1.0.0.7",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.6/IRM_1.0.0.6.zip",
-  "checksum": "5FAB9F57DD4FC1375359B55F890A88D3B7C8C412DE6A12189C07218244FEDBBF",
-  "releaseDate": "2026-06-18",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.7/IRM_1.0.0.7.zip",
+  "checksum": "2FEB221750872A3097B2584251E80AD442D38A42DD5F9D74FC14AF41345DAA6D",
+  "releaseDate": "2026-06-26",
   "notes": [
-    "Implementación de Maestro de Choferes, Vehículos, Asistentes."
+    "Feat: corrección de la clave harcodeada."
   ]
 }
