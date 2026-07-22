@@ -1,11 +1,11 @@
 {
 
-  "version": "1.0.0.7",
+  "version": "1.0.0.8",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.7/IRM_1.0.0.7.zip",
-  "checksum": "2FEB221750872A3097B2584251E80AD442D38A42DD5F9D74FC14AF41345DAA6D",
-  "releaseDate": "2026-06-26",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.8/IRM_1.0.0.8.zip",
+  "checksum": "8CD7922A211F5AF357F0F73625E23D9AF5EEBE8FED3C794596A76D732A787F27",
+  "releaseDate": "2026-07-22",
   "notes": [
-    "Feat: corrección de la clave harcodeada."
+    "ExchangeRate to US$ from banreservas.com."
   ]
 }
