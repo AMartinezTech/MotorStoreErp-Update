@@ -1,11 +1,11 @@
 {
 
-  "version": "1.0.0.8",
+  "version": "1.0.0.9",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.8/IRM_1.0.0.8.zip",
-  "checksum": "8CD7922A211F5AF357F0F73625E23D9AF5EEBE8FED3C794596A76D732A787F27",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.9/IRM_1.0.0.9.zip",
+  "checksum": "13CBF60E41C8317C53A3BB5A98759897485B91CE09C87B335F3067878369178D",
   "releaseDate": "2026-07-22",
   "notes": [
-    "ExchangeRate to US$ from banreservas.com."
+    "Warehouse get by type"
   ]
 }
