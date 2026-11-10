@@ -1,11 +1,10 @@
 {
-
-  "version": "1.0.2.10",
+  "version": "1.0.3.10",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.2.10/IRM_1.0.2.10.zip",
-  "checksum": "0097DD55E3963E0BE502713AF13A84F6007A9B5309B51FE229306F228636640D",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.3.10/IRM_1.0.3.10.zip",
+  "checksum": "C99A17A6CBF4DD2E53A5D6EEF61DD3B6ED965D77BCAFC8CC0FF1335906992D89",
   "releaseDate": "2026-11-10",
   "notes": [
-    "Fixes and refactories on Purchaser Order. v1.0.0.10 to v1.0.2.10"
+    "Fixes and refactories on Purchaser Order. v1.0.0.10 to v1.0.3.10"
   ]
 }
