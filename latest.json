@@ -1,11 +1,11 @@
 {
 
-  "version": "1.0.0.9",
+  "version": "1.0.0.10",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.9/IRM_1.0.0.9.zip",
-  "checksum": "13CBF60E41C8317C53A3BB5A98759897485B91CE09C87B335F3067878369178D",
-  "releaseDate": "2026-07-22",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.0.10/IRM_1.0.0.10.zip",
+  "checksum": "31C40B7F1138AD8649A5DBFF35DBE23BE9EB8A8326A7C09A5F393CCB50FD9083",
+  "releaseDate": "2026-11-10",
   "notes": [
-    "Warehouse get by type"
+    "Fixes and refactories on Purchaser Order"
   ]
 }
