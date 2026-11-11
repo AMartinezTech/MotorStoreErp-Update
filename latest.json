@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4.10",
+  "version": "1.0.5.10",
   "mandatory": false,
-  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.4.10/IRM_1.0.4.10.zip",
-  "checksum": "C0C6BBF8548F63824A78F4E5A688BC46BC78DA2DE5D37A636B9E3F7E5320E921",
-  "releaseDate": "2026-11-10",
+  "url": "https://github.com/AMartinezTech/MotorStoreErp-Update/releases/download/v1.0.5.10/IRM_1.0.5.10.zip",
+  "checksum": "AD44C4221D06DE4943FD3C679D31E234160753D35CFE2B2210AF0596F6C4C8DC",
+  "releaseDate": "2026-11-11",
   "notes": [
-    "Fixes and refactories on Purchaser Order. v1.0.3.10 to v1.0.4.10"
+    "Refatoring conciliation inventory"
   ]
 }
